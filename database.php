@@ -1,3 +1,3 @@
 <?php
-$db=new mysqli("localhost","projectgsv","psggsv123@123","pro");
+$db=new mysqli("localhost","@username","@password","@table name");
 ?>
