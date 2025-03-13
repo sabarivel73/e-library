@@ -1,3 +1,3 @@
 <?php
-$db=new mysqli("localhost","@username","@password","@table name");
+$db=new mysqli("localhost","@username","@password","@tablename");
 ?>
